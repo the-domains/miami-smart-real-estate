@@ -1,7 +1,7 @@
 name: Miami Smart Real Estate
 favicon: null
-layout_spectrum: 0.4821
-typography_spectrum: 0.8652882
+layout_spectrum: 1
+typography_spectrum: 0.50512
 collections:
   - index:
       path: /
@@ -33,7 +33,7 @@ color:
     - '#f0f0ef'
     - '#0a7325'
     - '#d72338'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.6196742
   rhythmicContrast: 0.5
