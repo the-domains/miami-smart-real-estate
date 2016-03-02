@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T21:56:47.899Z'
-dateModified: '2016-03-02T21:55:49.680Z'
+datePublished: '2016-03-02T22:41:35.382Z'
+dateModified: '2016-03-02T22:41:21.163Z'
 title: River Oak condominium
 author: []
 sourcePath: _posts/2016-02-25-river-oak-condominium.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: river-oak-condominium/index.html
-_type: Article
+_type: WebPage
 
 ---
 # **River Oak condominium**
