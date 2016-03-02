@@ -1,6 +1,6 @@
 name: 'Stephane Filliatreau, PA - Realtor - Global Luxury Realty'
 favicon: null
-layout_spectrum: 0.51918
+layout_spectrum: 0.75064
 typography_spectrum: 0.7532
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#f0f0ef'
     - '#0a7325'
     - '#d72338'
-  brandStrength: 0.1875
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.3125
+  lightness: 0.9375
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
