@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'MIAMI SMART REAL ESTATE BY Stephane Filliatreau, PA - Realtor - Global Luxury Realty'
+title: Miami smart real estate
 cta:
   domain: null
   bucket: null
