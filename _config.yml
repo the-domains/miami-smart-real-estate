@@ -1,6 +1,6 @@
-name: Miami Smart Real Estate
+name: 'Stephane Filliatreau, PA - Realtor - Global Luxury Realty'
 favicon: null
-layout_spectrum: 0.74808
+layout_spectrum: 0.99872
 typography_spectrum: 0.7532
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#f0f0ef'
     - '#0a7325'
     - '#d72338'
-  brandStrength: 0
-  lightness: 0.75
-  saturation: 0.75
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
