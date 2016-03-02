@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T04:27:34.772Z'
-dateModified: '2016-02-25T04:27:05.345Z'
+datePublished: '2016-03-02T21:48:52.946Z'
+dateModified: '2016-03-02T21:48:23.364Z'
 title: River Oak condominium
 author: []
 authors: []
@@ -22,7 +22,7 @@ url: river-oak-condominium/index.html
 _type: Article
 
 ---
-# River Oak condominium
+# **River Oak condominium**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ff274a5-8d52-4c49-b08f-92c1e13a5861.jpg)
 
 Beautiful river views from the 3 bedrooms units at River Oak
