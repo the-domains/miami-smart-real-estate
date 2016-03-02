@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T21:48:52.946Z'
-dateModified: '2016-03-02T21:48:23.364Z'
+datePublished: '2016-03-02T21:49:18.478Z'
+dateModified: '2016-03-02T21:49:02.169Z'
 title: River Oak condominium
 author: []
+sourcePath: _posts/2016-02-25-river-oak-condominium.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-25-river-oak-condominium.md
-published: true
 url: river-oak-condominium/index.html
 _type: Article
 
