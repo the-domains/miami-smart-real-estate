@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T22:43:20.863Z'
-dateModified: '2016-03-02T22:42:57.730Z'
+datePublished: '2016-03-02T22:47:33.281Z'
+dateModified: '2016-03-02T22:43:28.813Z'
 title: River Oak condominium
 author: []
 sourcePath: _posts/2016-02-25-river-oak-condominium.md
