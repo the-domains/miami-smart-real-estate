@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.5463744
   brandStrength: 0.8482293
-  lightness: 0.7023609
+  rhythmicContrast: 0
   brandColors:
     - '#FBFBFA'
     - '#88B4D0'
     - '#4B4C5B'
     - '#F36789'
     - '#F5BB1A'
-  rhythmicContrast: 0
+  lightness: 0.7023609
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: 'MIAMI SMART REAL ESTATE.                     Stephane Filliatreau, PA'
 favicon: null
+name: 'MIAMI SMART REAL ESTATE.                     Stephane Filliatreau, PA'
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.8111299
-layout_spectrum: 0.1728499
+layout_spectrum: 1
